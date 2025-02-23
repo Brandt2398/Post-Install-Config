@@ -32,9 +32,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/Swtcphi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step I will login to the osTicket Admin Panel. Above displays the tickets for admin/helpdesk User Interface (UI) that will reflect the tickets that are created by the End User.
+In this first step I will login to the osTicket Admin Panel. Above displays the tickets for admin/helpdesk User Interface (UI) that will reflect the tickets that are created by the End User.
 </p>
 <br />
+
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/c3ca3850-9bf8-4e84-9775-01fe58092111" />
+<p>Here we created agent roles, a new department, and a new team.</p>
+
 
 <p>
 <img src="https://i.imgur.com/JTO5iKl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
